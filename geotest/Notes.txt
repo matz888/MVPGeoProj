@@ -1,0 +1,3 @@
+Step 1.  Define a base map in open layers.
+Step 2.  Find an example of boundary retrieval.
+Step 3.  Adapt for the local authority data set.

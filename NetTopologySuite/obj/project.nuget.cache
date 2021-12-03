@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwrozMMtgefAS6/EGWOZ5QM1ebBbgm1qbfOGLZMNz6ra4mYWCh5nu6MsST4PsVE+cM/lPYvd4grRJ0VDpfrurg==",
+  "success": true,
+  "projectFilePath": "C:\\Matz\\Dev\\Geo\\GeoProj\\NetTopologySuite\\NetTopologySuite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matz8\\.nuget\\packages\\microsoft.dotnet.apicompat\\6.0.0-beta.21159.11\\microsoft.dotnet.apicompat.6.0.0-beta.21159.11.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Matz8\\.nuget\\packages\\nettopologysuite\\2.4.0\\nettopologysuite.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\bin\Debug\netstandard2.0\NetTopologySuite.deps.json
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\bin\Debug\netstandard2.0\NetTopologySuite.dll
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\bin\Debug\netstandard2.0\NetTopologySuite.pdb
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\obj\Debug\netstandard2.0\NetTopologySuite.AssemblyInfoInputs.cache
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\obj\Debug\netstandard2.0\NetTopologySuite.AssemblyInfo.cs
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\obj\Debug\netstandard2.0\NetTopologySuite.csproj.CoreCompileInputs.cache
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\obj\Debug\netstandard2.0\NetTopologySuite.dll
+C:\Matz\Dev\Geo\GeoProj\NetTopologySuite\obj\Debug\netstandard2.0\NetTopologySuite.pdb
